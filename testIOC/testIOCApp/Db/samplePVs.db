@@ -1,0 +1,16 @@
+record(stringin, "$(P):MY_STRING"){
+}
+record(bi, "$(P):BINARY"){
+	field(ZNAM, "OFF")
+	field(ONAM, "ON")
+}
+record(longin, "$(P):LONGIN"){
+}
+record(ai, "$(Q):MY_STRING"){
+	field(VAL, 1)
+	field(VAL, 2)
+	field(VAL, 3)
+}
+record(bi, "$(R):LED"){
+}
+

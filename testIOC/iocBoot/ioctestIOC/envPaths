@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","ioctestIOC")
+epicsEnvSet("TOP","/home/epics/repos/testIOC")
+epicsEnvSet("EPICS_BASE","/usr/local/epics/base")
